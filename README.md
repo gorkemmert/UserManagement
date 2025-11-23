@@ -9,7 +9,7 @@
 ## Projeyi Başlatmak için 
 
    ```bash
-   npm run start
+   npm start
    ```
 
 ## Frontend için 
